@@ -1,0 +1,25 @@
+C_ID,[-Name-],[-----Product bought-----],Quantity,Total Cost
+1234,priya,"('ML101', 'Pink Matte lipstick', 'Sephora')",2,130.0
+1234,priya,"('SC101', 'Day Cream', 'Sephora')",1,150.0
+345,priya,"('ML101', 'Pink Matte lipstick', 'Sephora')",2,130.0
+345,priya,"('ML102', 'Red liquid matte', 'huda beauty')",1,60.0
+123,Aarushi,"('ML101', 'Pink Matte lipstick', 'Sephora')",2,130.0
+123,aarushi,"('ML102', 'Red liquid matte', 'huda beauty')",2,120.0
+1207,riya,"('ML101', 'pink matte lipstick', 'sephora')",1,65.0
+1207,riya,"('SC101', 'Day Cream', 'Sephora')",2,300.0
+1,a,"('ML101', 'pink matte lipstick', 'sephora')",1,65.0
+2,aa,"('ML101', 'pink matte lipstick', 'sephora')",2,130.0
+2,aa,"('SC101', 'Day Cream', 'Sephora')",1,150.0
+456,Arya,"('ML101', 'pink matte lipstick', 'sephora')",1,65.0
+456,Arya,"('ML102', 'Red liquid matte', 'Huda beauty')",3,180.0
+456,Arya,"('SC101', 'Day Cream', 'Sephora')",2,300.0
+456,Arya,"('HS101', 'Baby Shampoo', 'Johnson Baby')",4,200.0
+456,arya,"('ML101', 'pink matte lipstick', 'sephora')",1,65.0
+456,arya,"('ML102', 'Red liquid matte', 'Huda beauty')",2,120.0
+456,arya,"('SC101', 'Day Cream', 'Sephora')",1,150.0
+456,arya,"('HS101', 'Baby Shampoo', 'Johnson Baby')",5,250.0
+456,arya,"('MF101', 'Foundation', 'Huda Beauty')",3,270.0
+456,arya,"('MF101', 'Foundation', 'Huda Beauty')",2,180.0
+456,arya,"('ME101', 'Eyeshadow', 'Huda Beauty')",6,1200.0
+456,arya,"('ML101', 'pink matte lipstick', 'sephora')",2,130.0
+456,arya,"('ML102', 'Red liquid matte', 'Huda beauty')",1,60.0
