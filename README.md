@@ -29,5 +29,3 @@ This project is a work in progress and is designed to be run on a local machine.
 3. Navigate to the project directory in your terminal or command prompt.
 4. Run the main Python file
 
-## License
-This project is licensed under the [MIT License](LICENSE).
