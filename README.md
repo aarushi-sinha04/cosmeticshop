@@ -1,7 +1,7 @@
-# Upbound - Cosmetic Shop Management System
+# Cosmetic Shop Management System
 
 ## Overview
-Upbound is a Cosmetic Shop Management System designed to streamline operations and enhance customer experience in cosmetic retail stores. It provides a user-friendly interface for both customers and administrators, facilitating seamless product browsing, purchasing, and inventory management.
+A Cosmetic Shop Management System designed to streamline operations and enhance customer experience in cosmetic retail stores. It provides a user-friendly interface for both customers and administrators, facilitating seamless product browsing, purchasing, and inventory management.
 
 ## Key Features
 - **User Authentication:** Customers and administrators can securely log in to access personalized features and functionalities.
